@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "A distributed and decentralized movie theater!",
   "main": "src/main.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/matteomonti/whooma.git"
@@ -20,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/matteomonti/whooma/issues"
   },
-  "homepage": "https://github.com/matteomonti/whooma#readme"
+  "homepage": "https://github.com/matteomonti/whooma#readme",
+  "dependencies": {
+    "bittorrent-dht": "^7.7.0",
+    "webtorrent": "^0.98.20"
+  }
 }
