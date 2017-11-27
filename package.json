@@ -1,0 +1,25 @@
+{
+  "name": "whooma",
+  "version": "1.0.0",
+  "description": "A distributed and decentralized movie theater!",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteomonti/whooma.git"
+  },
+  "keywords": [
+    "movie",
+    "distributed",
+    "p2p",
+    "torrent"
+  ],
+  "author": "Matteo Monti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matteomonti/whooma/issues"
+  },
+  "homepage": "https://github.com/matteomonti/whooma#readme"
+}
